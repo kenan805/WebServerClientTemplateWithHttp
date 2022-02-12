@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fecafc5a-d2b8-4146-b180-88727abbdb39": {
+      "ProjectGuid": "fecafc5a-d2b8-4146-b180-88727abbdb39",
+      "DisplayName": "cs_HttpListener",
+      "ColorIndex": 0
+    },
+    "fe3989ab-91d4-4ea5-90d8-f3125822b514": {
+      "ProjectGuid": "fe3989ab-91d4-4ea5-90d8-f3125822b514",
+      "DisplayName": "CarsData",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "59b70229-8532-4385-b809-04de2363755f": {
+      "ProjectGuid": "59b70229-8532-4385-b809-04de2363755f",
+      "DisplayName": "cs_HttpClientDekstopApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\bin\Debug\net5.0\CarsData.deps.json
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\bin\Debug\net5.0\CarsData.dll
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\bin\Debug\net5.0\ref\CarsData.dll
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\bin\Debug\net5.0\CarsData.pdb
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\obj\Debug\net5.0\CarsData.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\obj\Debug\net5.0\CarsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\obj\Debug\net5.0\CarsData.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\obj\Debug\net5.0\CarsData.AssemblyInfo.cs
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\obj\Debug\net5.0\CarsData.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\obj\Debug\net5.0\CarsData.dll
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\obj\Debug\net5.0\ref\CarsData.dll
+C:\Users\user\source\repos\WebServerClientTemplateWithHttp\CarsData\obj\Debug\net5.0\CarsData.pdb
